@@ -1,6 +1,6 @@
 
 
-<img width="1920" height="1080" alt="prince-of-persia-warrior-within-wallpaper" src="https://github.com/user-attachments/assets/d1b1c979-5cc0-4644-86d9-a7918381c92f" />
+<img width="2560" height="1024" alt="super-mario" src="https://github.com/user-attachments/assets/01150128-271e-48af-8335-979bb1318495" />
 
 <h2>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm Waqib Sk</h2>
 <p align="center">
